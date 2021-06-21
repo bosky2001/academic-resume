@@ -1,7 +1,7 @@
 ---
 title: Xuan Hien Bui
-role: PhD student at GRASP Lab University of Pennsylvania
-bio: My research interests include robot learning for manipulation in
+role: PhD student at GRASP Lab
+bio: My research interest is robot learning for manipulation in
   contact-sensitive tasks.
 interests: []
 social:
