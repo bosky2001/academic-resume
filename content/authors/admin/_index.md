@@ -19,13 +19,16 @@ social:
     link: https://github.com/xuanhien070594
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/buixuanhien/
 organizations:
   - name: University of Pennsylvania
     url: https://www.upenn.edu/
 education:
   courses:
-    - course: BSc in Mechanical Engineering
+    - course: Ph.D. in Mechanical Engineering and Applied Science
+      institution: University of Pennsylvania
+      year: 2021 - Ongoing
+    - course: Bachelor Degree in Mechanical Engineering
       institution: Nanyang Technological University in Singapore
       year: 2018
 email: xuanhien@seas.upenn.edu
