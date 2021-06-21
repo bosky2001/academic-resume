@@ -1,13 +1,12 @@
 ---
 title: Xuan Hien Bui
 role: PhD student at GRASP Lab
-avatar_filename: img_1106-1-.jpg
-bio: My research interest is robot learning for manipulation in
-  contact-sensitive tasks.
+avatar_filename: avatar.jpg
+bio: ""
 interests:
-  - RobotLearningforManipulation
+  - Robot Learning for Manipulation
   - Dynamics
-  - ForceControl
+  - Control Theory
 social:
   - icon: envelope
     icon_pack: fas
