@@ -35,9 +35,9 @@ superuser: true
 highlight_name: false
 ---
 Hi, I'm Hien! I'm a doctoral student in the [MEAM](https://www.me.upenn.edu/) department and [GRASP Lab](https://www.grasp.upenn.edu/) at University of Pennsylvania. 
-I work in [DAIR Lab](https://dair.seas.upenn.edu/) under my supervisor [Michael Posa](https://dair.seas.upenn.edu/michael-posa/). 
+I work at [DAIR Lab](https://dair.seas.upenn.edu/) under my supervisor [Michael Posa](https://dair.seas.upenn.edu/michael-posa/). 
 
-I graduated with a Bachelor of Mechanical Engineering (specialized in Robotics and Mechatronics) at [Nanyang Technological University](https://www.ntu.edu.sg/) in Singapore.
+I graduated with a Bachelor of Mechanical Engineering (specialized in Robotics and Mechatronics) from [Nanyang Technological University](https://www.ntu.edu.sg/) in Singapore.
 Before starting my PhD at Penn, I worked at [Eureka Robotics](https://eurekarobotics.com/) as Robotics Engineer for 3 years, building [Archimedes Robot](https://techcrunch.com/2019/10/09/eureka-robotics-new-robotic-arm-is-designed-for-optical-lenses-and-mirrors/), an ultra-precise optics handling robotic system.
 
-My research interest is in exploring robot learning for manipulation in various contact-sensitive tasks.
+My research interest is exploring robot learning for manipulation in various contact-sensitive tasks.
