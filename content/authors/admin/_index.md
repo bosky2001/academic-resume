@@ -24,7 +24,7 @@ organizations:
     url: https://www.upenn.edu/
 education:
   courses:
-    - course: Ph.D. in Mechanical Engineering and Applied Science
+    - course: Ph.D. Student in Mechanical Engineering and Applied Science
       institution: University of Pennsylvania
       year: 2021 - Ongoing
     - course: Bachelor Degree in Mechanical Engineering
